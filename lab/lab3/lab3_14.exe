@@ -1,0 +1,684 @@
+nge developer settings and to enable experimental features.
+
+If you enable this policy setting, employees can't access the about:flags page.
+
+If you disable or don't configure this setting, employees can access the about:flags page.</string>
+      <string id="PreventLiveTileDataCollection">Prevent Microsoft Edge from gathering Live Tile information when pinning a site to Start</string>
+      <string id="PreventLiveTileDataCollection_Explain">This policy lets you decide whether Microsoft Edge can gather Live Tile metadata from the ieonline.microsoft.com service to provide a better experience while pinning a Live Tile to the Start menu.
+
+If you enable this setting, Microsoft Edge won't gather the Live Tile metadata, providing a minimal experience when a user pins a Live Tile to the Start menu.
+
+If you disable or don't configure this setting, Microsoft Edge gathers the Live Tile metadata, providing a fuller and more complete experience when a user pins a Live Tile to the Start menu.</string>
+      <string id="PreventFirstRunPage">Prevent the First Run webpage from opening on Microsoft Edge</string>
+      <string id="PreventFirstRunPage_Explain">
+This policy setting lets you decide whether employees see Microsoft's First Run webpage when opening Microsoft Edge for the first time.
+
+If you enable this setting, employees won't see the First Run page when opening Microsoft Edge for the first time.
+
+If you disable or don't configure this setting, employees will see the First Run page when opening Microsoft Edge for the first time.</string>
+      <string id="SyncFavoritesBetweenIEAndMicrosoftEdge">Keep favorites in sync between Internet Explorer and Microsoft Edge</string>
+      <string id="SyncFavoritesBetweenIEAndMicrosoftEdge_Explain">This setting lets you decide whether people can sync their favorites between Internet Explorer and Microsoft Edge.
+
+If you enable this setting, employees can sync their favorites between Internet Explorer and Microsoft Edge.
+
+If you disable or don't configure this setting, employees canâ€™t sync their favorites between Internet Explorer and Microsoft Edge.
+      </string>
+      <string id="UnlockHomeButton">Unlock Home Button</string>
+      <string id="UnlockHomeButton_Explain">By default, when enabling Configure Home Button or Set Home Button URL, the home button is locked down to prevent your users from changing what page loads when clicking the home button. Use this policy to let users change the home button even when Configure Home Button or Set Home Button URL are enabled.
+
+If enabled, the UI settings for the home button are enabled allowing your users to make changes, including hiding and showing the home button as well as configuring a custom URL.
+
+If disabled or not configured, the UI settings for the home button are disabled preventing your users from making changes.
+
+Default setting: Disabled or not configured
+Related policy:
+-Configure Home Button
+-Set Home Button URL</string>
+      <string id="AllowFlashClickToRun">Configure the Adobe Flash Click-to-Run setting</string>
+      <string id="AllowFlashClickToRun_Explain">
+        If you enable or donâ€™t configure the Adobe Flash Click-to-Run setting, Microsoft Edge will require a user to click the Click-to-Run button, to click the content, or for the site to appear on the auto-allowed list, before loading and running the content.
+
+Sites get onto the auto-allowed list based on user feedback, specifically by how often the content is allowed to load and run.
+      </string>
+
+      <string id="AllowClearingBrowsingDataOnExit">Allow clearing browsing data on exit</string>
+      <string id="AllowClearingBrowsingDataOnExit_Explain">This policy setting allows the automatic clearing of browsing data when Microsoft Edge closes.
+
+If you enable this policy setting, clearing browsing history on exit is turned on.
+
+If you disable or don't configure this policy setting, it can be turned on and configured by the employee in the Clear browsing data options under Settings.
+      </string>
+
+      <string id="AllowFlash">Allow Adobe Flash</string>
+      <string id="AllowFlash_Explain">This setting lets you decide whether employees can run Adobe Flash in Microsoft Edge.
+
+If you enable or don't configure this setting, employees can use Adobe Flash.
+
+If you disable this setting, employees can't use Adobe Flash.
+
+      </string>
+
+      <string id="AllowCVList">Allow Microsoft Compatibility List</string>
+      <string id="AllowCVList_Explain">This policy setting lets you decide whether to use the Microsoft Compatibility List (a Microsoft-provided list that helps sites with known compatibility issues to display properly) in Microsoft Edge. By default, the Microsoft Compatibility List is enabled and can be viewed by visiting about:compat.
+
+If you enable or donâ€™t configure this setting, Microsoft Edge periodically downloads the latest version of the list from Microsoft, applying the updates during browser navigation. Visiting any site on the Microsoft Compatibility List prompts the employee to use Internet Explorer 11, where the site is automatically rendered as though itâ€™s in whatever version of IE is necessary for it to appear properly.
+
+If you disable this setting, the Microsoft Compatibility List isnâ€™t used during browser navigation.</string>
+
+      <string id="AllowTabPreloading">Allow Microsoft Edge to start and load the Start and New Tab page at Windows startup and each time Microsoft Edge is closed</string>
+      <string id="AllowTabPreloading_Explain">This policy setting lets you decide whether Microsoft Edge can load the Start and New Tab page during Windows sign in and each time Microsoft Edge is closed. By default this setting is to allow preloading.
+
+If you allow preloading, disable, or donâ€™t configure this policy setting, Microsoft Edge loads the Start and New Tab page during Windows sign in and each time Microsoft Edge is closed; minimizing the amount of time required to start up Microsoft Edge and to start a new tab.
+
+If you prevent preloading, Microsoft Edge wonâ€™t load the Start or New Tab page during Windows sign in and each time Microsoft Edge is closed.</string>
+      <string id="AllowTabPreloadingDropdown_AllowTabPreloading">Allow tab preloading</string>
+      <string id="AllowTabPreloadingDropdown_PreventTabPreloading">Prevent tab preloading</string>
+      <string id="ConfigureTelemetryForMicrosoft365Analytics">Configure collection of browsing data for Desktop Analytics</string>
+      <string id="ConfigureTelemetryForMicrosoft365Analytics_Explain">You can configure Microsoft Edge to send intranet history only, internet history only, or both to Desktop Analytics for enterprise devices with a configured Commercial ID. If disabled or not configured, Microsoft Edge does not send browsing history data to Desktop Analytics.
+
+Supported versions: Microsoft Edge on Windows 10, version 1809
+Default setting: Disabled or not configured (no data collected or sent)</string>
+      <string id="ZonesList_IntranetOnly">Allow sending intranet history only</string>
+      <string id="ZonesList_InternetOnly">Allow sending internet history only</string>
+      <string id="ZonesList_Both">Allow sending both intranet and internet history</string>
+      <string id="ZonesList_None">Do not allow sending intranet or internet history</string>
+
+      <string id="AllowPrelaunch">Allow Microsoft Edge to pre-launch at Windows startup, when the system is idle, and each time Microsoft Edge is closed</string>
+      <string id="AllowPrelaunch_Explain">This policy setting lets you decide whether Microsoft Edge can pre-launch during Windows sign in, when the system is idle, and each time Microsoft Edge is closed. By default this setting is to allow pre-launch.
+
+If you allow pre-launch, disable, or donâ€™t configure this policy setting, Microsoft Edge pre-launches during Windows sign in, when the system is idle, and each time Microsoft Edge is closed; minimizing the amount of time required to start up Microsoft Edge.
+
+If you prevent pre-launch, Microsoft Edge wonâ€™t pre-launch during Windows sign in, when the system is idle, or each time Microsoft Edge is closed.</string>
+      <string id="AllowPrelaunchDropdown_AllowPrelaunch">Allow pre-launching</string>
+      <string id="AllowPrelaunchDropdown_PreventPrelaunch">Prevent pre-launching</string>
+
+      <string id="ConfigureKioskMode">Configure kiosk mode</string>
+      <string id="ConfigureKioskMode_Explain">Configure how Microsoft Edge behaves when itâ€™s running in kiosk mode with assigned access, either as a single app or as one of multiple apps running on the kiosk device. You can control whether Microsoft Edge runs InPrivate full screen, InPrivate multi-tab with limited functionality, or normal Microsoft Edge.
+
+You need to configure Microsoft Edge in assigned access for this policy to take effect; otherwise, these settings are ignored. To learn more about assigned access and kiosk configuration, see â€œConfigure kiosk and shared devices running Windows desktop editionsâ€ (https://aka.ms/E489vw).
+
+If enabled and set to 0 (Default or not configured):
+- If itâ€™s a single app, it runs InPrivate full screen for digital signage or interactive displays.
+- If itâ€™s one of many apps, Microsoft Edge runs as normal.
+If enabled and set to 1:
+- If itâ€™s a single app, it runs a limited multi-tab version of InPrivate and is the only app available for public browsing. Users canâ€™t minimize, close, or open windows or customize Microsoft Edge, but can clear browsing data and downloads and restart by clicking â€œEnd session.â€ You can configure Microsoft Edge to restart after a period of inactivity by using the â€œConfigure kiosk reset after idle timeoutâ€ policy.
+- If itâ€™s one of many apps, it runs in a limited multi-tab version of InPrivate for public browsing with other apps. Users can minimize, close, and open multiple InPrivate windows, but they canâ€™t customize Microsoft Edge.</string>
+      <string id="ConfigureKioskResetAfterIdleTimeout">Configure kiosk reset after idle timeout</string>
+      <string id="ConfigureKioskResetAfterIdleTimeout_Explain">You can configure Microsoft Edge to reset to the configured start experience after a specified amount of idle time. The reset timer begins after the last user interaction. Resetting to the configured start experience deletes the current userâ€™s browsing data.
+
+If enabled, you can set the idle time in minutes (0-1440). You must set the Configure kiosk mode policy to 1 and configure Microsoft Edge in assigned access as a single app for this policy to work. Once the idle time meets the time specified, a confirmation message prompts the user to continue, and if no user action, Microsoft Edge resets after 30 seconds.
+
+If you set this policy to 0, Microsoft Edge does not use an idle timer.
+
+If disabled or not configured, the default value is 5 minutes.
+
+If you do not configure Microsoft Edge in assigned access, then this policy does not take effect.</string>
+    </stringTable>
+
+    <!-- Presentation -->
+    <presentationTable>
+      <presentation id="ConfiguredFavorites_Presentation">
+        <textBox refId="ConfiguredFavoritesPrompt">
+          <label>Specify the URL which points to the file that has all the data for provisioning favorites (in html format). You can export a set of favorites from Microsoft Edge and use that html file for provisioning user machines.
+
+URL can be specified as
+1. HTTP location: http://localhost:8080/URLs.html
+2. Local network: \\network\shares\URLs.html
+3. Local file: file:///c:\\Users\\&lt;user&gt;\\Documents\\URLs.html or C:\\Users\\&lt;user&gt;\\Documents\\URLs.html
+          </label>
+        </textBox>
+      </presentation>
+      <presentation id="ConfigureOpenEdgeWith_Presentation">
+        <dropdownList refId="ConfigureOpenEdgeWithListBox" noSort="true" defaultItem="3">Configure Open Microsoft Edge With</dropdownList>
+      </presentation>
+      <presentation id="ConfigureHomeButton_Presentation">
+        <dropdownList refId="ConfigureHomeButtonDropdown" noSort="true" defaultItem="0">Configure the Home Button</dropdownList>
+      </presentation>
+      <presentation id="EnterpriseModeSiteList_Presentation">
+        <textBox refId="EnterSiteListPrompt">
+          <label>Type the location (URL) of your Enterprise Mode IE website list</label>
+        </textBox>
+      </presentation>
+      <presentation id="HomePageSite_Presentation">
+        <textBox refId="HomePageSitePrompt">
+          <label>Type the location (URL) of your Home Page website</label>
+        </textBox>
+      </presentation>
+      <presentation id="HomePages_Presentation">
+        <textBox refId="HomePagesPrompt">
+          <label>Use this format:  &lt;support.contoso.com&gt;&lt;https://support.microsoft.com/&gt;</label>
+        </textBox>
+      </presentation>
+      <presentation id="SetDefaultSearchEngine_Presentation">
+        <textBox refId="SetDefaultSearchEngine_Prompt">
+          <label>Use this format to specify the link you wish to add: &lt;https://fabrikam.com/opensearch.xml&gt;</label>
+        </textBox>
+      </presentation>
+      <presentation id="SetHomeButtonURL_Presentation">
+        <textBox refId="SetHomeButtonURLPrompt">
+          <label>Enter a URL in string format. For example: https://www.bing.com</label>
+        </textBox>
+      </presentation>
+      <presentation id="SetNewTabPageURL_Presentation">
+        <textBox refId="SetNewTabPageURLPrompt">
+          <label>Enter a URL in string format. For example: https://www.bing.com</label>
+        </textBox>
+      </presentation>
+      <presentation id="ConfigureAdditionalSearchEngines_Presentation">
+        <textBox refId="ConfigureAdditionalSearchEngines_Prompt">
+          <label>Use this format to specify the link(s) you wish to add: &lt;https://fabrikam.com/opensearch.xml&gt;&lt;https://www.contoso.com/opensearch.xml&gt;</label>
+        </textBox>
+      </presentation>
+      <presentation id="ProvisionedFavorites_Presentation">
+        <listBox refId="ProvisionedFavorites_List">Enter the name of the favorite in the first column and the URL of the favorite in the other column like Contoso http://www.contoso.com/</listBox>
+      </presentation>
+      <presentation id="PreventTurningOffRequiredExtensions_Presentation">
+          <textBox refId="PreventTurningOffRequiredExtensions_Prompt">
+              <label>In the space below, enter extension package family names (PFNs) separated by semi-colons.</label>
+          </textBox>
+      </presentation>
+      <presentation id="Cookies">
+        <dropdownList refId="CookiesListBox" noSort="true" defaultItem="2">Configure Cookies </dropdownList>
+      </presentation>
+      <presentation id="AllowTabPreloading">
+        <dropdownList refId="AllowTabPreloadingDropdown" defaultItem="0">Configure tab preloading</dropdownList>
+      </presentation>
+      <presentation id="AllowPrelaunch">
+        <dropdownList refId="AllowPrelaunchDropdown" defaultItem="0">Configure pre-launch</dropdownList>
+      </presentation>
+      <presentation id="ConfigureTelemetryForMicrosoft365Analytics_Presentation">
+        <dropdownList refId="ZonesListBox" noSort="true" defaultItem="0">Configure telemetry collection</dropdownList>
+      </presentation>
+      <presentation id="ConfigureKioskMode_Presentation">
+        <text>Configure how Microsoft Edge behaves in kiosk mode.
+
+For single app assigned access:
+   - 0 = Full-screen digital signage and interactive display
+   - 1 = InPrivate public browsing (limited features)
+
+For multi-app assigned access:
+   - 0 = Normal Microsoft Edge running in assigned access
+   - 1 = InPrivate public browsing
+        </text>
+        <decimalTextBox refId="ConfigureKioskMode_TextBox" defaultValue="0"></decimalTextBox>
+      </presentation>
+      <presentation id="ConfigureKioskResetAfterIdleTimeout_Presentation">
+        <text>Specify the time in minutes from the last user activity before Microsoft Edge kiosk resets, you can choose:
+   - 0 to disable the idle timer
+   - 1-1440 minutes of inactivity since the last user interaction
+        </text>
+        <decimalTextBox refId="ConfigureKioskResetAfterIdleTimeout_TextBox" defaultValue="5"></decimalTextBox>
+      </presentation>
+      <presentation id="ShowMessageWhenOpeningSitesInInternetExplorer_Presentation">
+        <dropdownList refId="ShowMessageWhenOpeningSitesInInternetExplorer_Dropdown" noSort="true" defaultItem="0">Show Keep going in Microsoft Edge link</dropdownList>
+      </presentation>
+    </presentationTable>
+  </resources>
+</policyDefinitionResources>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           // =======================================================================
+// === Common Functions
+// === Copyright © Dassault Systemes / Pierre SMEYERS (Jan 30 2006)
+// =======================================================================
+// === This Javascript Library contains general functions for the online
+// === doc runtime infrastructure.
+// =======================================================================
+
+/**
+ * The name of the main navigation frame (that displays the documentation pages)
+ */
+var MAIN_FRAMENAME = "mainsm";
+
+// =======================================================================
+/**
+* Message for debugging purpose.
+*/
+function DebugMessage(msg)
+{
+//	alert(msg);
+//	window.status = "[DBG]:"+msg;
+}
+
+// =======================================================================
+/**
+* Enrich String class with trim() method
+*/
+String.prototype.trim = function()
+{
+	var i1=0;
+	while(i1 < this.length && this.chartAt(i1) == ' ')
+		i1++;
+	var i2=this.length-1;
+	while(i2 > i1 && this.chartAt(i2) == ' ')
+		i2--;
+	if(i1 == i2)
+		return "";
+	if(i1 == 0 && i2 == this.length-1)
+		return this;
+	return this.substr(i1, (i2-i1));
+}
+
+// =======================================================================
+/**
+* Enrich String class with ensWith() method
+*/
+String.prototype.endsWith = function(s)
+{
+	if (typeof s != 'string')
+		throw('IllegalArgumentException: String.endsWith() is expecting a string argument.');
+	var start = this.length - s.length;
+	if(start < 0) return false;
+	return this.substr(start) == s;
+}
+
+// =======================================================================
+/**
+* Enrich String class with startsWith() method
+*/
+String.prototype.startsWith = function(s)
+{
+	if (typeof s != 'string')
+		throw('IllegalArgumentException: String.startsWith() is expecting a string argument.');
+	if(this.length < s.length) return false;
+	return this.substr(0, s.length) == s;
+}
+
+// =======================================================================
+/**
+* Extracts arguments from the given location object.
+* Arguments are passed in a URL with the grammar:
+* http://server/the/path/to/the/file?arg1=val1&arg2=val2&...
+*/
+function extractParamsFromLocation(locationObj)
+{
+	var args = new Array();
+	var varAndVals = locationObj.search.substr(1).split("&");
+	for(var i=0; i<varAndVals.length; i++)
+	{
+		var v = varAndVals[i].split("=");
+		args[unescape(v[0])] = unescape(v[1]);
+	}
+	// V2E : IR-225631V6R2014 & IR-2256306R2014 
+	// added one more parameter for element ID to directly show the scrolled page.
+	if(locationObj.hash){
+		
+		args["ElemID"] = locationObj.hash;
+	}
+	
+	return args;
+}
+
+// =======================================================================
+/**
+* JFS 2014 Nov 21
+* Extracts parameters string from the initial parameters array.
+*/
+function extractParamsFromArgs(args)
+{
+      var arguments="?contextscope=";
+      if (args["contextscope"] == null) {
+        arguments = arguments + "onpremise";
+      }
+      else {
+        arguments = arguments + args["contextscope"];
+      }
+      // "dsdoc" parameters
+      if (args["collapse"] != null) {
+        arguments = arguments + "&collapse=" + args["collapse"];
+      }
+      if (args["MyApps"] != null) {
+        arguments = arguments + "&MyApps=" + args["MyApps"];
+      }
+      if (args["MyAppsURL"] != null) {
+        arguments = arguments + "&MyAppsURL=" + args["MyAppsURL"];
+      }
+      if (args["login"] != null) {
+        arguments = arguments + "&login=" + args["login"];
+      }
+      // *help.dsone.3ds.com and help.3ds.com parameters
+      if (args["V"] != null) {
+        arguments = arguments + "&V=" + args["V"];
+      }
+      if (args["L"] != null) {
+        arguments = arguments + "&L=" + args["L"];
+      }
+      if (args["P"] != null) {
+        arguments = arguments + "&P=" + args["P"];
+      }
+      // internal anchor must be kept after the parameters
+      if (args["ElemID"] != null) {
+        arguments = arguments + args["ElemID"];
+      }
+      /*alert("arguments="+arguments);*/
+    
+    return arguments;
+}
+
+// =======================================================================
+/**
+* Returns the first father node with given tag name.
+* This function pops the DOM hirearchy and returns the parent node with the given tag name.
+*/
+function getFatherNode(nodeType, node)
+{
+	var obj = node;
+	while(obj != null && (obj.nodeName == null || obj.nodeName != nodeType))
+			obj = obj.parentNode;
+	return obj;
+}
+
+// =======================================================================
+/**
+* Returns the first father node with the given tag name and a non-null ID.
+*/
+function getFatherNodeWithId(nodeType, node)
+{
+	var obj = node;
+	while(obj != null)
+	{
+		if(obj.nodeName && obj.nodeName == nodeType && obj.id != null && obj.id != "")
+			return obj;
+		obj = obj.parentNode;
+	}
+	return obj;
+}
+
+// =======================================================================
+/**
+* Loads a file and returns its content.
+*/
+function loadFile(url, type)
+{
+	var req = null;
+	if (window.XMLHttpRequest) req = new XMLHttpRequest();
+	else if (window.ActiveXObject) req = new ActiveXObject("Microsoft.XMLHTTP");
+	if (req == null) throw new Error("XMLHttpRequest not supported.");
+	
+	/*
+	if(req.overrideMimeType)
+	{
+		if(type == "xml")
+			req.overrideMimeType("text/xml");
+		else if(type == "html")
+			req.overrideMimeType("text/html");
+		else
+		{
+			type = "txt";
+			req.overrideMimeType("text/plain");
+		}
+	}
+	*/
+	
+	/*
+	// --- async mode
+	req.open("GET", url, true);
+	req.onreadystatechange = function () {
+		if (this.readyState == 4 && this.status == 200) {
+//			setTimeout(this.responseText, 0);
+			alert();
+		}
+	};
+	*/
+	// --- sync mode
+	req.open("GET", url, false);
+	
+	req.send(null);
+	// --- treat errors
+//	if (req.readyState != 4 || req.status != 200)
+//		alert("Warning: Http Request readystate="+req.readyState+", status="+req.status+" ("+req.statusText+")");
+	
+	if(type == "txt")
+		return req.responseText;
+	return req.responseXML;
+}
+
+// =======================================================================
+/**
+* This function loads the given xml file and returns its root node.
+*/
+function loadXML(xmlUrl)
+{
+//	return loadFile(xmlUrl, "xml");
+	if(document.all)
+	{
+		// --- Internet Explorer
+//		var xmlNode = new ActiveXObject("Microsoft.XMLDOM");
+		var xmlNode = new ActiveXObject("Msxml2.DOMDocument");
+		xmlNode.async = false;
+		xmlNode.load(xmlUrl);
+		return xmlNode;
+	}
+	else
+	{
+		// --- Mozilla
+		var req = new XMLHttpRequest();
+		req.overrideMimeType("text/xml");
+		req.open("GET", xmlUrl, false);
+		req.send(null);
+		return req.responseXML;
+	}
+}
+
+// =======================================================================
+/**
+* Returns the postion of obj relatively to the given parent (optional).
+*/
+function getAbsPos(obj, relativeToObj)
+{
+	var topOffset = 0;
+	var leftOffset = 0;
+	if(relativeToObj == null) relativeToObj = document.body;
+	// --- IE, Netscape>=7, mozilla, ...
+	while(true)
+	{
+		topOffset += obj.offsetTop;
+		leftOffset += obj.offsetLeft;
+		obj = obj.offsetParent;
+		if(!obj) break;
+		if(relativeToObj && relativeToObj == obj) break;
+		topOffset -= obj.scrollTop;
+		leftOffset -= obj.scrollLeft;
+	}
+	return [leftOffset, topOffset];
+}
+
+// =======================================================================
+/**
+* Searches the root node for nodes with given arguments.
+*/
+function searchNodesWithCriterias(rootNode, tagName)
+{
+	if(rootNode == null)
+		return null;
+	var results = new Array();
+	var nodes = rootNode.getElementsByTagName(tagName);
+	for(var i=0; i<products.length; i++)
+	{
+		var matches = true;
+		for(var j=2; j<arguments.length; j+=2)
+		{
+			var value = nodes[i].getAttribute(arguments[i]);
+			if(value != arguments[i+1])
+			{
+				matches = false;
+				break;
+			}
+		}
+		if(matches)
+			results.push(nodes[i]);
+	}
+	return results;
+}
+
+// =======================================================================
+/**
+* Determines whether if the given window is loaded or not (if it has a body).
+*/
+function isWindowLoaded(winObj)
+{
+	try
+	{
+		return winObj != null && winObj.document != null && winObj.document.body != null;
+	}
+	catch(e)
+	{
+		return false;
+	}
+}
+
+// =======================================================================
+// HFJ for Checkvisibility
+function loadFile_mod(url, type)
+{
+	var xmlhttp; 
+  try 
+  {  
+    xmlhttp = new ActiveXObject('Msxml2.XMLHTTP');   
+  }
+  catch (e) 
+  {
+    try 
+    {   
+      xmlhttp = new ActiveXObject('Microsoft.XMLHTTP');    
+    }
+    catch (e2) 
+    {
+      try 
+      {  
+        xmlhttp = new XMLHttpRequest();  
+      }
+      catch (e3)
+      {
+        xmlhttp = false;
+      }
+    }
+  }
+
+	if (xmlhttp == null) throw new Error("XMLHttpRequest not supported.");
+	
+	xmlhttp.open("GET", url, false);
+	xmlhttp.send(null);
+	
+	if(type == "txt")
+		return xmlhttp.responseText;
+	return xmlhttp.responseXML;
+}
+
+// =======================================================================
+// CHECK RUNTIME VISIBILITY
+// JFS+V2E 2012 Feb 16
+// =======================================================================
+var CRTV_array_loaded = 0;
+var CRTV_array = new Array();
+
+function mycheckVisibility(stringToFind) {
+  if (CRTV_array_loaded == 0) {
+    //alert(" load CRTV_array");
+    CRTV_array = loadFile_mod("InstalledList.txt", "txt");
+    CRTV_array = CRTV_array.toLowerCase();
+    CRTV_array_loaded = 1;
+    //alert(" CRTV_array loaded");
+  }
+  if (CRTV_array.match("^" + stringToFind.toLowerCase()))
+    return true;
+  if (CRTV_array.match("\n" + stringToFind.toLowerCase()))
+    return true;
+  //alert(stringToFind + " not found");
+  return false;
+}
+
+function checkRTVisibility() {
+  var arguments = checkRTVisibility.arguments;
+  testVar = document.getElementsByTagName("div");
+  for (var i = 0; i < arguments.length; i++) {
+    if (mycheckVisibility(arguments[i])) {
+      //alert(arguments[i] + " is visible");
+      for (j = 0; j < testVar.length; j++) {
+        if (testVar[j].className == arguments[i]) {
+          testVar[j].style.visibility = 'inherit';
+        }
+      }
+    }
+    else {
+      //alert(arguments[i] + " is NOT visible");
+      for (j = 0; j < testVar.length; j++) {
+        if (testVar[j].className == arguments[i]) {
+          testVar[j].style.display = 'none';
+        }
+      }
+    }
+  }
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ²³ ackage_1 6_for_KB 4560959~ 31bf3856 ad364e35 ~amd64~~ 18362.89 2.1.3, P arent: M icrosoft -Windows -CoreCou ntrySpec ificEdition¶0.0.`1, Dispos1 = De tect, Vers CComp:  EQ, Bui„ldRevi  GE, Exis! ¡pres ª
+@2020-1 8  21:29:2 2, Info  CBS	App0l: d‚@xno$ p‚} f rd,À go abÁ0„©û­‚Í: YÒeeeƒ¡‰d¥é;049,  state: ~Aw@°Å*ÀâÈË0F8@±D*Sup@ÉeødedÿUÿ*…}ÿ*§{H110æ*InÀllŸÊsJsEvalÀuating€rbe a`vicabiPlity`tr&Pç_Z%le%C?˜‹Plan@Uerg e into eƒá•Aexecu¦?F@´…¿‚]·æTaa`tedSã\¦,à new µ_Kè5¤5c0?=curCÃSHpend€':a Æfaul Æ Kr7à¿h'8: ¿¤O, †tä Šlimi©ßßPPUpd’Dõ-28_neuÀtral, _"_"Ÿ˜/n-<el M|edV__vvÏ!gàVT"Ÿ‰Ÿ‰Ÿ‰‰^9ÿ_Ù###`K#Bı_s_¿ˆ¿ˆtT¹ˆÇ°@ñ/Ÿ‚_17ïœïœGïœÕiïœCliĞ“- Desktop- Required‚-d04115E£ kG_5'Ïtyn¿ğ,1¿…·_3_3 //u/ÿÒz¿¿o6d6O‡ÒHO‡÷/¶/¶ocooÆoÿoooßˆ<ÏÏÏÿ‡ÂÏ9MÏ9¿Ö¿Öo­ÿ¿Ö¿Ö¯t/9/9/9¿Ö6;/9///¿Ö¿Ö¿Ö1ïßÜ¦„ 3tOOñÿññCñ?²œ~__g___: ğ0¹³ 1:29:22,@ Info  CBSLAppl:  detectP arent: p found:  Microso ft-Windo ws-CoreE dition~3 1bf3856a d364e35~ amd64~~1 0.0.1836 2.1049,  state: Abs c
+202ˆ0-1 8 2ˆ©8€—„TSuper`sededÿV“«1$10†«In [ll9VEvaluating@€ckage a@‡icab ility „rFPaB_17_f or_KB45600959„Â‚89‘Àƒ.3,FleE†!z0Plan€ªer -into exis‚2execu×ª†.À+ „/:ö1	ÆTaÀtedSÃ¹F3, new U±–Ã:0$1curCÃ~Hpendà@:  DefaultİÂLr@ƒheCl zÈtä :àDR, l¸imi©ßè•C#•ßP2.PUpd’äV-30_ne€utral, _"O_"_"K"@,el€°eÿ@®¤.¿$¿$ßtì¶Ët®$æ1¿$GplŠGG¿¿$¿Ş€&©Ş@€á_,E}h‚8›ƒİ‹&åè0çli ß-Deskt op-Required-„y04115_ê w, Dispos‚ğ =àt1ø, V@ÖÀòCo mp: EQ,  Buildç RevisGE, æER0reyy'ü  „9/„/„.„ÿ¿…¿…¿…_3_f/_}_dR////0ÿO‡O‡o-©ooooï/)/)_Ò/1ßˆßˆ_ı_ Ï9ğgïnÏ9Ÿ¨’¨]Ï9n°hÏ9a­C0¯t rySpecifüic_®_®U®/9/9/9ü, /9/9¿²_½’ 9† no‘Nƒ½, ğgo aß¸ß¸)O?ç kTÔ_1OOOÿ ¿Ç¿Ç¿Ç¸Ç__ÿ__RÌ¿Ö¤_ï9ï9ã9ÿÿ¿Ö¢¿Ö ¿ßß/]/]_ár_áÿ_áWáoOoOCù
+ÿ?ì>ìßMßMÏ
+Ï
+ëÔM¿Ö ¿ÖpÃ›Ğ0´Öß4ß4Ö4’³ .892.1.3 , applic able sta@te: In @l led
+2020-1 8 21€:29:22, |ˆfo  CBS& Plan: Me rge into  existing ecutio€n packa  for P:_18_ _KB 4560959~ 31bf3856 ad364e35 ~amd64~~`18362ÇgTBa {tedSÍ,à new ·uÆ`€currentÀ@, pend :  Defaultº,Òr‹‡à
+t„ƒá
+
+limi‰¿=>nUpd‚Ä{-32 _neutral, ¿D¯D€Xele¾c@F]IIMI3IóG%, G¿$ß…à…ßÃ…_hŸ€‚™nI4¿$ßk÷¤I¿$tIÁ¨d Šªw¿$¿$³$5¿$¿$¿$tşa¡ÊIàœ¿$¿$#ËÊûÊnI6¿$¿$¿$¿$ÿ’ôAàı: det· NPIg,ÕIXx9_x_x_xPa#lMic rosoft-W indows-CliÀm-Desk top-Requ ired-T-04115¿~µ~0.0.1, Dis posit±„=q¡, Vers Comp: EQ€, Buildç ReviGE, E¡‰: preşs 	/'ßF'„9É¥p" foundŸ<Dˆ0Ì49PXSAb/›é83  /t//¿o¿¿y›)8ğ¤d§Säuped§§ˆÿooŸ/)/)/)ê§h˜110–ß³-1ß³7šÀ _tÏ9¤2_1?Ï9/²/²?)À9oreC +trySp ecificEdÿ6/9/9/9ÒE/9/9/9ĞÂ/9/ÿ,ğMõ,no0ÇIS9, goü a3/Î[OO@ÂÍO/=ÌğØ5TC@_LÑX)RRR,ş RRoáoáÂ?ï9ÿï9ã9ÿOàøÿP/]/]ÿ&Ÿ
+Ÿ
+Ÿ
+Ÿ
+ïêãê™
+ÿoOoOÿ³¦
+€ ß
+ß
+ß
+Ö
+Ë³ Edition~ 31bf3856 ad364e35 ~amd64~~ 10.0.183 62.1110,  state: In  lled€
+2020-1  8 21:29:ˆ22, >fo  CBS&Appl : Evalua ting pac@kage a i cabilityP forP!_19_ _KB4À560959¸³D89 ·.3,YleBÁPlan: Mer Zinto  exiseexxecu©]c_:N ¶c†3Ta€=tedSŒÇ, ne|w •±ÖÃ:0Dbc@urrentˆ,  pendÀ: €Default‚™rËÅ†lIŸ, tÃÄAÊlimiI¿=1>nUpdÎÄ­-3 7_neutraxl, ¿DJ?¢D€Xexlec@¦.¿$zCqIydet@	`$!;,se%§]20¿vÃ«vPaCEMicros oft-Wind€ows-Cli€H -Desktop -Required-ÄT04115Ÿš@R, DispdosÂ  = PA,  Vers £Comp@•Q, BuildÇReviAGE, EA€:à pres@Ÿ)›)EpB `¡und Ç!!³»049`B£‰üAb_ÈAğA_9g Â9Ô08 ÏÔSäup 8ed?Ô
+ßüfo?1_RÿììºÿIè°Ÿs/u½€Ï9q\Ï9CoreC`try SpecificŸ††e/9/9 E/9¿/9/9¯Š¯Š‚/tõ,no°}IS9, gøo a3Ï  ötOôL_T›T¡XÿTT7@___`QRÿRtS____Â?ÿVRcÿß®Ø®ÿP/8ÿ¯®R
+A Ÿ
+Ÿ
+D³mŸ
+ÿŸ
+™
+oOoO¹¦
+€ ß
+ÿß
+ß
+ß
+O)C)Ø
+_Ä_ÄûÏ
+Ï
+ _Ä_Ä_ÄqÆß4ÿïÏäÏ+O7¨_ÄĞĞUŸä_Ä_Ä¥Ñ_ÄgeÿĞĞ_ÄÜf_ÄY·0ÿ0ºäLŸ¡ÏgÏg0èßöÜ/³_ÄâŒ_Älæ_ÄÎg0¬–†í, _Ä¯î÷¯î„og ï\oìû÷û(^Ä8_Ä S´ù/.³³ d, appli cable: I€nstalle ° targetedA
+Plimit
+DselecLDef ault
+2020-1 8 2 1:29:22, ²fo  CBSEA ‚: d nc t ParentB, ckag ”Pa_21_fo r_KB4560 959~31bf 3856ad36 4e35~amd 64~~1836 2.892.1.3HP: Mic rosoft-W indows-Cli 5-Desk top-Requ ired-„804115—20.0.51, Disp osition = De, Vers€Comø?®¿PA30çËòİÔ°^Ğ?Ä¢” 
+\‘¢ÿË‡ç,Ü)#ë/ÂNa  €        ÈAÅßZğ,ªªªªªªªªªªª
+*ªªªª*€±=»»»»»»»»+»»ûˆğ€ş_ øŸ €ÿ ğ¿ øŸ ÁªÿcTC3"2CDdfö™ù%%§yvdDCDTeUefg‡ef–‡÷igUDCDDUVfffvYvfowŸÏUÀP`:Ï1¯’ĞF
+¦ÑQ)1(«‘B,Dî¼BÑ£Ï'•µ2Å,ì ?Œ£ô`j†sN1ÿœ"p ¡·¿= ¸P‹¡è“‰a"ØŸ17(.âºzª
+œƒr¬  ¬VX$ }†BE.å<¥LAd42&B¢(h‡J{¸PÌJJ0à|œ‘ˆ"
+±¿ÖHH™°ŞHåz#{q•Œ?FhpJû(%ua(@¥ı˜F*´*Ìa<cûTTBT˜‡‘}€F*ù PhJ…ÀÈ~šŠR¥A#…ÍÀ\Ô‡ÒX
+ûT6WÚó¯D£Vªth$söÑ!TR3²?SI¹•ô+¥
+Ø
+ã+Föv*UˆUĞœ—8C¡ğsWìi„`T:/ÄáÎ÷sÁAÛĞ0BÚ3@$èH{V(ÀÉ£Ï h†##(—Â¡°^FÖG¡ğÑ6”ÏÈz) Š£uSˆ˜1¬•B†aR#êB©P*¬&mÏH&XG¥È™‹‘g@;QÈ#Ú¾
+Åˆön$ãÖÚ@æbR‡2>8tB1×ĞQÖ˜? ,g®JC:X?hİp'ÌI(|?8\¿à(Ãé#y…N‚X(@á€0eÌ¼‚•BÀø¸*ÌO!@…ñãŠù
+*öS$Pd(š[pÔ!aúa"”ã0s9ë»PÈ…º_‘Õ+æİ)}	‡’cHæ‰“§ÜÑÀRÂñ%àĞñ°0’’vN0è|	øKUh8Ê­ÛøĞq«ë¡°êßtš”ÔI÷øÅ[ ‡€$PÂ¸¿†ú‡³‡ƒà-
+2Í)âŸDÂ’RÄû"<>ğ(
+6V6“°×eÄNÀú¡ÚQÀÔxìÀaHÀ¬?0NIWœ}‡Hƒösü‡	 ú	^¢éy!x9X'f ‚j]@ 	7ÈC$ğÏÔ®;-cœñœª(XşŸ3†Ì•}å£äa¬„’ÁWÉ½=ñù™Í7ÍöZñ/	 KEÂúdGú£¨'à/;
+…g½uøOĞX& -`äö£.×
+ ë²ªéìÈ°`
+ÊåÀÂßdä¯'°ˆ`$ˆú	@‚1°ƒÚ,‘°'àA$”æ}ïøwc³Âø
+jpş!$(‚	¤~ş	FÖĞÏ@Q^’¾Ö&›Çó®S†qèGû,¤Sx$ÌAèa¤öd€õÂ)†Î1]BAAø!Ÿ€
+ @û‰`uIÏÒ²ÖÑa–Yuø`ÜAüÌG?X@ø¥Õ›I:ÔÕBNlFÔX3>4ÖÙaÙcgr	OdÊKLHÀF?Æ%Z„i'!¨°&‹ÑÕ'=D)êVß%”#q º„°ß-V3º>Z
+ÁßÖ¥8À>Â-¥·KoåØBæãì¡¿8QqÖ×A×`ËTPg½$s×'™ÑTf%oÁè±‰)Ø˜ÕÍÉh¬&¬g‰ºˆkÕgäI,ô€c…™G\Pg“`ŒI« ÆN p¯=¿™®ÄŒ0’…Î¬à1z€¤¬JÎÿÑòMêDPó7ÉÑ®Èƒ Ó ™ıâ÷#–©ì†’d[Ü%ù‹ó²>-o\&@ƒƒk=6Ù°8œ[çv	$ãpŒ$5™qïák¹éé0h$ØÜ?Æ|Œ	7õäLd9¤C†ƒ	@ ÜYÀ¬UzŸ¶Û@öš§	B7#l'ÄülÃıÁóRÈzîË×Æf<ÿ¿ÈıôPH
+ú\‚‰	O°|>LNp?˜û#Hıo«¨{‚"mé>FÔÅµÆµÆ%ã6ùL>]E7T…é¤ŠÈ£¦÷ÔC€ë@‚Ô~·!	Àü@p‡Æ;ğ+ˆO+¶÷ºÉş	ûÇYMn²4şV–¾Ç¡=2Aë–|òV' dâ	&d:HĞÍıà~p?È¹˜RÔ=!6(¢+"İ·¢[Ñm¢«èVt+º±İNP%!ü*ÂÜCšÀ‘/.sJø8ùúşƒãĞ·ÌÈù9?äéÀ]‘ëâêâêâêâŠn9t ŸÉk .P¨Ôêuº@ÒáÁÂIùw|È®»¹»¹»¹»¹»¹ûMw°ü-–\…µ3@¤$^ï`>h'Ç Bá~
+4»mÌ‹&|è¶dma³Á'ÒAv_‰=4™º@] .PèDôç7Õµ$¤ÉTH7‚Ä„s`ëª n`?ù 
+Şöƒ'l=…K0p08L@A2üp8p8p ÀÂ3ÌOx†Ÿf˜¯È00Ÿf˜¯È00? óæ'(ÃÀ|E†ùP`êÉ/0Dã¡ÉQböÁ	x½Ø’ İ)(<“˜BuÒ'İ†ğhÏĞL›éHîÔj.ÕmÂoç¶
+/nI¶¡‘÷ú/ÇÅÕMš¨ââIS>{üv=Zå~(µìCë°•ZÃR…¿÷ÒÍö6^ Â“`vxØ~¥ù7ŞƒÙJjLšbA1a[`­’@ç6¦+ˆ%3[àiøH‡3Ñ½(>Nñz"—Ë4:Aæ<¿€SğŞ
+‡ùFää@è6˜39¡>ûƒ€$Ê+ë±^5„ÊfÃnŞYà‰Iº¡cLâ§ª‚‹®¢'À'w®Œ
+ù	‡à†`^>È}Kñ8Yb[Ş¿o»£cFp-®°¶n«7ƒÀßê(<?-l}Ñ3è?€Ÿ¸4âÑŸÒ'0AÀ?ıı³5W]óg};üSÚ:J7/&?0p>yHŒœ fŠT5w.:€"Tyz2@ÀQ y
+	ÍÏ 3Ø|yãÌ·ZÒ=ä^¹Í:~Õ³\ƒÀ¤<Ÿò|Êó)Ï¹0­QkÔüáÿËõl}äo¯“7¼3¼3¼3<Ğeüwëî­»·îŞº{ëî­?,tæ‡2×:¯u^ë¼Ö¼‰é<à<ph=y,›¬y‘*˜ï0ßa¾Ãü?4~hüĞø¡qú—ï#$BóÌÇ!ƒï#$‚OÖN5zò&MKš–4-iZæHüàğçĞÿÿÿÀàŸ}ªÉÚx Z Gæ	Ìé’éœ'!B~öàOØO¨/×{KåmgxrŠLÃh
+Ã”áÌß:C0p¿ãˆ¶¦8íÀ{ wî“Sò„İ˜ªÜğ8…K€ñ"ŸÊ·3fX:f?/iüë.B$ßª*I¯K!ÿC1ĞP¢ÛËœ~íiDf™ÿàOÁ÷üh>‡Ly(Ì8…Ø|ÖÑĞyPd°.ÄÜG!0˜õ€B'ëH0|è'^Öìo”ÙQ5Œ†ÈˆX_T3£Ïh¼ä '-Ùf%Hà5”6¡"¡¨E-jQ‹ZÔ¢m±^™Hô‹1GüÂ5Bd}â 3GÔ¢`æ‹~‘AŒ‹qQ‹1Q‹£¨Å˜8ˆZÔ¢_.Œá fp}Jáµ¨Â}ÂƒpQ‹€h#ú`¢-"Bô‹€X/
+s…Gxmá ö	D[ô#D!âµ8ˆqD8Â#jQ#<"„hÃh" Ö
+Q€ØÛ¨Q€ğÀÌC¬"(£¢‘@Ô¢h#JGÔÆ#Ú0ŒHèµh#¢-<‡2¬¥µƒvÀA8šÓ¢Î˜¦gé`Ì/ØMëS0“Téİâd#)/ZŠ)cÏà¼t‰î•‚L×«÷q)àB¡êÕÉLÌÅ8B‘Ñ()Pt ğ¬ÿ Xáæ@x_ƒO§Vˆ@ñÎÊŠ†
+jÈˆÌ ¨Î.`c6f6tŞle6›^)*}e›Ã³Ígs×ù6c3¶ùÜÌö¹ÛÜÔj3x6³™¹Û³á6g¶‚Õç³™Ï‡Ã6Ü6·ÙfğÔjÄ,á¹­|ÆÌ¦of›ÎÆ†ƒ7³YùÆ6o,YùÊ^ÙÊl¾2€ÓRcÆ€mÎ”‚&uCK‡0u´Nê:
+qhæ#âÒWˆ;Ä2énƒd£^º‚¥Oİ¨:d£$>E¤ëtÌ¥âÒÉ]`;Àq×©CL‡Ê!“8Ô% Â
+Ã`La0M8ƒ(\TÁ IÉ¨SR
+¡š’’PI!BÉ)&¡PS€C%…†JJBI)€„’R
+=…BEAƒA€àa#@,y!¯¸ÅoÄ#­Øñb·«HCÂ
+¹$²³2CV…¼nÆê{	ëˆŸ¥!,,"òH«x…íìu«Ø/vÂ˜ÙÏŒÅÿ~‹{}³[õ7ö™´ÁaÌyıVH@³²è QN	`„èÌjóƒ$Bññ9š@S rR¢Í!eEÚÜQµ0C•{ÔhÎÌ|Ó½Vf6<p«Àm8ÃÍfi¶Š²š…ÕÊ¾ùfÌ|3Sf¶™©ÙÌ7eé+Sf¶™)KÛÌ”ÙÊL#mVÊ¬Ü˜²´Í˜Z­L­V¦Vó™O­6gjÆ¬5„¥1p‚p00$¸‰è)$E(’!`HRV”%ÂÆŒ™13ÔP›±tó™1#˜[1«Í63¯Íİæ³é\§nÊ|nóY©ã3›ÎMgjn››ë|ns—F>WW¯¹NºOšnJà¸šNİñùäÔÕ¥K—®ÙÔ§Ú`‰ƒA„ ³ú!¿üü„ÑøÿC¾?–¬“ÔßDïwvüòMğx°úñÿòÕ—¼ƒ½ã,ƒ…Œøÿ¨x<ş?şG#øãÇ	Wôßõêwıñ¿àüxDdãAøG°G0€+|S e4mÌ“ó™¼ô‚IgcêZÂO.”Ğ¯DîJ´9š&}B«5W½òÍUõMEİÔUGİÕBg.T]g›ºº·	\Që©»ÈßUQ_«{\LË5„«
+×®ŠÊğ©ú4ÔÑt×pCU]CU›ôM]QßK	PÅmêŠÏ•hJ8%œÎu6N¤’Sp'%Ÿæyş|yöG4Ëè`oÕÖ†Ğ«¾ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ

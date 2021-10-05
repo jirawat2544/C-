@@ -1,0 +1,1421 @@
+-0.375778"
+         stCamera:VignetteModelParam2="0.223545"
+         stCamera:VignetteModelParam3="-0.150464">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.264603, 0.978000</rdf:li>
+          <rdf:li>0.526336, 0.914000</rdf:li>
+          <rdf:li>0.731643, 0.836000</rdf:li>
+          <rdf:li>0.980973, 0.714000</rdf:li>
+          <rdf:li>1.029792, 0.682000</rdf:li>
+          <rdf:li>1.174056, 0.520000</rdf:li>
+          <rdf:li>1.221366, 0.428000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="17"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000021"
+        stCamera:ResidualStandardDeviation="0.000013"
+        stCamera:RadialDistortParam1="-0.047645"
+        stCamera:RadialDistortParam2="0.003489"
+        stCamera:RadialDistortParam3="-0.000198">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999738"
+        stCamera:RadialDistortParam1="0.001014"
+        stCamera:RadialDistortParam2="-0.000623"
+        stCamera:RadialDistortParam3="-0.000054"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000021"
+        stCamera:ResidualStandardDeviation="0.000013"
+        stCamera:RadialDistortParam1="-0.047645"
+        stCamera:RadialDistortParam2="0.003489"
+        stCamera:RadialDistortParam3="-0.000198"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.001288"
+        stCamera:RadialDistortParam1="-0.001193"
+        stCamera:RadialDistortParam2="0.000879"
+        stCamera:RadialDistortParam3="0.000089"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005677"
+         stCamera:VignetteModelParam1="-0.319991"
+         stCamera:VignetteModelParam2="0.107347"
+         stCamera:VignetteModelParam3="-0.152553">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.211659, 0.986000</rdf:li>
+          <rdf:li>0.472115, 0.930000</rdf:li>
+          <rdf:li>0.674238, 0.858000</rdf:li>
+          <rdf:li>0.915558, 0.739000</rdf:li>
+          <rdf:li>0.962089, 0.686000</rdf:li>
+          <rdf:li>1.184878, 0.359000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="21"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:ResidualStandardDeviation="0.000011"
+        stCamera:RadialDistortParam1="-0.011947"
+        stCamera:RadialDistortParam2="-0.000091"
+        stCamera:RadialDistortParam3="0.0014">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000043"
+        stCamera:RadialDistortParam1="0.001206"
+        stCamera:RadialDistortParam2="-0.001097"
+        stCamera:RadialDistortParam3="0.000238"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:ResidualStandardDeviation="0.000011"
+        stCamera:RadialDistortParam1="-0.011947"
+        stCamera:RadialDistortParam2="-0.000091"
+        stCamera:RadialDistortParam3="0.0014"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000806"
+        stCamera:RadialDistortParam1="-0.001381"
+        stCamera:RadialDistortParam2="0.001507"
+        stCamera:RadialDistortParam3="-0.000307"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000205"
+        stCamera:VignetteModelParam1="-0.418034"
+        stCamera:VignetteModelParam2="0.049951"
+        stCamera:VignetteModelParam3="0.008992"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="21"
+       stCamera:FocusDistance="0.95"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000012"
+        stCamera:ResidualStandardDeviation="0.000009"
+        stCamera:RadialDistortParam1="-0.017702"
+        stCamera:RadialDistortParam2="0.000325"
+        stCamera:RadialDistortParam3="0.001338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999987"
+        stCamera:RadialDistortParam1="0.001157"
+        stCamera:RadialDistortParam2="-0.001045"
+        stCamera:RadialDistortParam3="0.00021"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000012"
+        stCamera:ResidualStandardDeviation="0.000009"
+        stCamera:RadialDistortParam1="-0.017702"
+        stCamera:RadialDistortParam2="0.000325"
+        stCamera:RadialDistortParam3="0.001338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000879"
+        stCamera:RadialDistortParam1="-0.001336"
+        stCamera:RadialDistortParam2="0.001484"
+        stCamera:RadialDistortParam3="-0.000299"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000204"
+        stCamera:VignetteModelParam1="-0.417963"
+        stCamera:VignetteModelParam2="0.044752"
+        stCamera:VignetteModelParam3="0.010819"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="21"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.040361"
+        stCamera:RadialDistortParam2="0.002928"
+        stCamera:RadialDistortParam3="0.000644">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999754"
+        stCamera:RadialDistortParam1="0.001"
+        stCamera:RadialDistortParam2="-0.000874"
+        stCamera:RadialDistortParam3="0.00014"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.040361"
+        stCamera:RadialDistortParam2="0.002928"
+        stCamera:RadialDistortParam3="0.000644"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.001175"
+        stCamera:RadialDistortParam1="-0.001144"
+        stCamera:RadialDistortParam2="0.00125"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000221"
+        stCamera:VignetteModelParam1="-0.417657"
+        stCamera:VignetteModelParam2="0.026644"
+        stCamera:VignetteModelParam3="0.014933"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.005525"
+        stCamera:RadialDistortParam2="0.004616"
+        stCamera:RadialDistortParam3="-0.0003">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000037"
+        stCamera:RadialDistortParam1="0.000989"
+        stCamera:RadialDistortParam2="-0.001"
+        stCamera:RadialDistortParam3="0.000298"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.005525"
+        stCamera:RadialDistortParam2="0.004616"
+        stCamera:RadialDistortParam3="-0.0003"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000715"
+        stCamera:RadialDistortParam1="-0.001069"
+        stCamera:RadialDistortParam2="0.001377"
+        stCamera:RadialDistortParam3="-0.000399"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00029"
+        stCamera:VignetteModelParam1="-0.506927"
+        stCamera:VignetteModelParam2="0.095892"
+        stCamera:VignetteModelParam3="0.007438"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.010098"
+        stCamera:RadialDistortParam2="0.004345"
+        stCamera:RadialDistortParam3="0.000018">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999995"
+        stCamera:RadialDistortParam1="0.000953"
+        stCamera:RadialDistortParam2="-0.000961"
+        stCamera:RadialDistortParam3="0.000277"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.010098"
+        stCamera:RadialDistortParam2="0.004345"
+        stCamera:RadialDistortParam3="0.000018"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000772"
+        stCamera:RadialDistortParam1="-0.001035"
+        stCamera:RadialDistortParam2="0.001339"
+        stCamera:RadialDistortParam3="-0.000374"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00029"
+        stCamera:VignetteModelParam1="-0.506871"
+        stCamera:VignetteModelParam2="0.090833"
+        stCamera:VignetteModelParam3="0.00972"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000008"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.032647"
+        stCamera:RadialDistortParam2="0.003707"
+        stCamera:RadialDistortParam3="0.001233">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999772"
+        stCamera:RadialDistortParam1="0.000843"
+        stCamera:RadialDistortParam2="-0.000835"
+        stCamera:RadialDistortParam3="0.000231"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000008"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.032647"
+        stCamera:RadialDistortParam2="0.003707"
+        stCamera:RadialDistortParam3="0.001233"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.001063"
+        stCamera:RadialDistortParam1="-0.0009"
+        stCamera:RadialDistortParam2="0.001157"
+        stCamera:RadialDistortParam3="-0.000282"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000241"
+        stCamera:VignetteModelParam1="-0.505222"
+        stCamera:VignetteModelParam2="0.068197"
+        stCamera:VignetteModelParam3="0.01459"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="0.000288"
+        stCamera:RadialDistortParam2="0.007803"
+        stCamera:RadialDistortParam3="-0.001253">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000039"
+        stCamera:RadialDistortParam1="0.000812"
+        stCamera:RadialDistortParam2="-0.000851"
+        stCamera:RadialDistortParam3="0.000301"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="0.000288"
+        stCamera:RadialDistortParam2="0.007803"
+        stCamera:RadialDistortParam3="-0.001253"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000646"
+        stCamera:RadialDistortParam1="-0.000828"
+        stCamera:RadialDistortParam2="0.001179"
+        stCamera:RadialDistortParam3="-0.000407"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000297"
+        stCamera:VignetteModelParam1="-0.57584"
+        stCamera:VignetteModelParam2="0.159781"
+        stCamera:VignetteModelParam3="-0.021271"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003616"
+        stCamera:RadialDistortParam2="0.007116"
+        stCamera:RadialDistortParam3="-0.000573">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000003"
+        stCamera:RadialDistortParam1="0.0008"
+        stCamera:RadialDistortParam2="-0.000862"
+        stCamera:RadialDistortParam3="0.000319"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003616"
+        stCamera:RadialDistortParam2="0.007116"
+        stCamera:RadialDistortParam3="-0.000573"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000695"
+        stCamera:RadialDistortParam1="-0.000797"
+        stCamera:RadialDistortParam2="0.001119"
+        stCamera:RadialDistortParam3="-0.000349"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000295"
+        stCamera:VignetteModelParam1="-0.574084"
+        stCamera:VignetteModelParam2="0.1482"
+        stCamera:VignetteModelParam3="-0.012333"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000009"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.026074"
+        stCamera:RadialDistortParam2="0.003557"
+        stCamera:RadialDistortParam3="0.003194">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999788"
+        stCamera:RadialDistortParam1="0.000698"
+        stCamera:RadialDistortParam2="-0.000685"
+        stCamera:RadialDistortParam3="0.000199"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000009"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.026074"
+        stCamera:RadialDistortParam2="0.003557"
+        stCamera:RadialDistortParam3="0.003194"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000985"
+        stCamera:RadialDistortParam1="-0.000703"
+        stCamera:RadialDistortParam2="0.001008"
+        stCamera:RadialDistortParam3="-0.00032"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000269"
+        stCamera:VignetteModelParam1="-0.56981"
+        stCamera:VignetteModelParam2="0.099725"
+        stCamera:VignetteModelParam3="0.027207"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.010476"
+        stCamera:RadialDistortParam2="0.013468"
+        stCamera:RadialDistortParam3="-0.001316">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00004"
+        stCamera:RadialDistortParam1="0.000591"
+        stCamera:RadialDistortParam2="-0.000629"
+        stCamera:RadialDistortParam3="0.00029"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.010476"
+        stCamera:RadialDistortParam2="0.013468"
+        stCamera:RadialDistortParam3="-0.001316"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000538"
+        stCamera:RadialDistortParam1="-0.000522"
+        stCamera:RadialDistortParam2="0.000897"
+        stCamera:RadialDistortParam3="-0.000435"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000285"
+        stCamera:VignetteModelParam1="-0.727432"
+        stCamera:VignetteModelParam2="0.284"
+        stCamera:VignetteModelParam3="-0.09755"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.47"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007245"
+        stCamera:RadialDistortParam2="0.011822"
+        stCamera:RadialDistortParam3="0.000898">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000013"
+        stCamera:RadialDistortParam1="0.000594"
+        stCamera:RadialDistortParam2="-0.000689"
+        stCamera:RadialDistortParam3="0.000401"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007245"
+        stCamera:RadialDistortParam2="0.011822"
+        stCamera:RadialDistortParam3="0.000898"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000575"
+        stCamera:RadialDistortParam1="-0.000496"
+        stCamera:RadialDistortParam2="0.000806"
+        stCamera:RadialDistortParam3="-0.000279"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000213"
+        stCamera:VignetteModelParam1="-0.72624"
+        stCamera:VignetteModelParam2="0.283065"
+        stCamera:VignetteModelParam3="-0.1157"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000008"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:RadialDistortParam1="-0.016982"
+        stCamera:RadialDistortParam2="-0.000596"
+        stCamera:RadialDistortParam3="0.017976">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999807"
+        stCamera:RadialDistortParam1="0.000529"
+        stCamera:RadialDistortParam2="-0.000518"
+        stCamera:RadialDistortParam3="0.000234"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000008"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:RadialDistortParam1="-0.016982"
+        stCamera:RadialDistortParam2="-0.000596"
+        stCamera:RadialDistortParam3="0.017976"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000864"
+        stCamera:RadialDistortParam1="-0.000438"
+        stCamera:RadialDistortParam2="0.00068"
+        stCamera:RadialDistortParam3="-0.0002"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000229"
+        stCamera:VignetteModelParam1="-0.726553"
+        stCamera:VignetteModelParam2="0.249421"
+        stCamera:VignetteModelParam3="-0.104976"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="17"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00003"
+        stCamera:ResidualStandardDeviation="0.000018"
+        stCamera:RadialDistortParam1="-0.019045"
+        stCamera:RadialDistortParam2="-0.001805"
+        stCamera:RadialDistortParam3="0.001176">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000059"
+        stCamera:RadialDistortParam1="0.001254"
+        stCamera:RadialDistortParam2="-0.000834"
+        stCamera:RadialDistortParam3="0.000026"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.00003"
+        stCamera:ResidualStandardDeviation="0.000018"
+        stCamera:RadialDistortParam1="-0.019045"
+        stCamera:RadialDistortParam2="-0.001805"
+        stCamera:RadialDistortParam3="0.001176"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00089"
+        stCamera:RadialDistortParam1="-0.001485"
+        stCamera:RadialDistortParam2="0.001154"
+        stCamera:RadialDistortParam3="-0.000024"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006777"
+         stCamera:VignetteModelParam1="-0.37163"
+         stCamera:VignetteModelParam2="0.184154"
+         stCamera:VignetteModelParam3="-0.097948">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.211884, 0.986000</rdf:li>
+          <rdf:li>0.475079, 0.930000</rdf:li>
+          <rdf:li>0.682905, 0.858000</rdf:li>
+          <rdf:li>0.886881, 0.766000</rdf:li>
+          <rdf:li>1.184864, 0.605000</rdf:li>
+          <rdf:li>1.233563, 0.484000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="17"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000026"
+        stCamera:ResidualStandardDeviation="0.000017"
+        stCamera:RadialDistortParam1="-0.026021"
+        stCamera:RadialDistortParam2="-0.000747"
+        stCamera:RadialDistortParam3="0.000926">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999984"
+        stCamera:RadialDistortParam1="0.001194"
+        stCamera:RadialDistortParam2="-0.000796"
+        stCamera:RadialDistortParam3="0.00001"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000026"
+        stCamera:ResidualStandardDeviation="0.000017"
+        stCamera:RadialDistortParam1="-0.026021"
+        stCamera:RadialDistortParam2="-0.000747"
+        stCamera:RadialDistortParam3="0.000926"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000983"
+        stCamera:RadialDistortParam1="-0.001413"
+        stCamera:RadialDistortParam2="0.001105"
+        stCamera:RadialDistortParam3="-0.000002"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005816"
+         stCamera:VignetteModelParam1="-0.366983"
+         stCamera:VignetteModelParam2="0.169592"
+         stCamera:VignetteModelParam3="-0.092828">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.211828, 0.986000</rdf:li>
+          <rdf:li>0.474352, 0.930000</rdf:li>
+          <rdf:li>0.680762, 0.858000</rdf:li>
+          <rdf:li>0.882279, 0.766000</rdf:li>
+          <rdf:li>1.174056, 0.601000</rdf:li>
+          <rdf:li>1.221366, 0.495000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="17"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000021"
+        stCamera:ResidualStandardDeviation="0.000013"
+        stCamera:RadialDistortParam1="-0.047645"
+        stCamera:RadialDistortParam2="0.003489"
+        stCamera:RadialDistortParam3="-0.000198">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999738"
+        stCamera:RadialDistortParam1="0.001014"
+        stCamera:RadialDistortParam2="-0.000623"
+        stCamera:RadialDistortParam3="-0.000054"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000021"
+        stCamera:ResidualStandardDeviation="0.000013"
+        stCamera:RadialDistortParam1="-0.047645"
+        stCamera:RadialDistortParam2="0.003489"
+        stCamera:RadialDistortParam3="-0.000198"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.001288"
+        stCamera:RadialDistortParam1="-0.001193"
+        stCamera:RadialDistortParam2="0.000879"
+        stCamera:RadialDistortParam3="0.000089"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005753"
+         stCamera:VignetteModelParam1="-0.40303"
+         stCamera:VignetteModelParam2="0.313953"
+         stCamera:VignetteModelParam3="-0.229342">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.316617, 0.969000</rdf:li>
+          <rdf:li>0.574047, 0.897000</rdf:li>
+          <rdf:li>0.772428, 0.814000</rdf:li>
+          <rdf:li>1.008001, 0.688000</rdf:li>
+          <rdf:li>1.053267, 0.645000</rdf:li>
+          <rdf:li>1.184878, 0.413000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="21"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:ResidualStandardDeviation="0.000011"
+        stCamera:RadialDistortParam1="-0.011947"
+        stCamera:RadialDistortParam2="-0.000091"
+        stCamera:RadialDistortParam3="0.0014">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000043"
+        stCamera:RadialDistortParam1="0.001206"
+        stCamera:RadialDistortParam2="-0.001097"
+        stCamera:RadialDistortParam3="0.000238"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:ResidualStandardDeviation="0.000011"
+        stCamera:RadialDistortParam1="-0.011947"
+        stCamera:RadialDistortParam2="-0.000091"
+        stCamera:RadialDistortParam3="0.0014"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000806"
+        stCamera:RadialDistortParam1="-0.001381"
+        stCamera:RadialDistortParam2="0.001507"
+        stCamera:RadialDistortParam3="-0.000307"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000205"
+        stCamera:VignetteModelParam1="-0.418034"
+        stCamera:VignetteModelParam2="0.049951"
+        stCamera:VignetteModelParam3="0.008992"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="21"
+       stCamera:FocusDistance="0.95"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000012"
+        stCamera:ResidualStandardDeviation="0.000009"
+        stCamera:RadialDistortParam1="-0.017702"
+        stCamera:RadialDistortParam2="0.000325"
+        stCamera:RadialDistortParam3="0.001338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999987"
+        stCamera:RadialDistortParam1="0.001157"
+        stCamera:RadialDistortParam2="-0.001045"
+        stCamera:RadialDistortParam3="0.00021"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000012"
+        stCamera:ResidualStandardDeviation="0.000009"
+        stCamera:RadialDistortParam1="-0.017702"
+        stCamera:RadialDistortParam2="0.000325"
+        stCamera:RadialDistortParam3="0.001338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000879"
+        stCamera:RadialDistortParam1="-0.001336"
+        stCamera:RadialDistortParam2="0.001484"
+        stCamera:RadialDistortParam3="-0.000299"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000211"
+        stCamera:VignetteModelParam1="-0.417364"
+        stCamera:VignetteModelParam2="0.044394"
+        stCamera:VignetteModelParam3="0.010828"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="21"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.040361"
+        stCamera:RadialDistortParam2="0.002928"
+        stCamera:RadialDistortParam3="0.000644">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999754"
+        stCamera:RadialDistortParam1="0.001"
+        stCamera:RadialDistortParam2="-0.000874"
+        stCamera:RadialDistortParam3="0.00014"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.040361"
+        stCamera:RadialDistortParam2="0.002928"
+        stCamera:RadialDistortParam3="0.000644"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.001175"
+        stCamera:RadialDistortParam1="-0.001144"
+        stCamera:RadialDistortParam2="0.00125"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00021"
+        stCamera:VignetteModelParam1="-0.417072"
+        stCamera:VignetteModelParam2="0.023755"
+        stCamera:VignetteModelParam3="0.017359"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.005525"
+        stCamera:RadialDistortParam2="0.004616"
+        stCamera:RadialDistortParam3="-0.0003">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000037"
+        stCamera:RadialDistortParam1="0.000989"
+        stCamera:RadialDistortParam2="-0.001"
+        stCamera:RadialDistortParam3="0.000298"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.005525"
+        stCamera:RadialDistortParam2="0.004616"
+        stCamera:RadialDistortParam3="-0.0003"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000715"
+        stCamera:RadialDistortParam1="-0.001069"
+        stCamera:RadialDistortParam2="0.001377"
+        stCamera:RadialDistortParam3="-0.000399"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000249"
+        stCamera:VignetteModelParam1="-0.512527"
+        stCamera:VignetteModelParam2="0.113396"
+        stCamera:VignetteModelParam3="-0.008766"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.010098"
+        stCamera:RadialDistortParam2="0.004345"
+        stCamera:RadialDistortParam3="0.000018">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999995"
+        stCamera:RadialDistortParam1="0.000953"
+        stCamera:RadialDistortParam2="-0.000961"
+        stCamera:RadialDistortParam3="0.000277"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.010098"
+        stCamera:RadialDistortParam2="0.004345"
+        stCamera:RadialDistortParam3="0.000018"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000772"
+        stCamera:RadialDistortParam1="-0.001035"
+        stCamera:RadialDistortParam2="0.001339"
+        stCamera:RadialDistortParam3="-0.000374"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000263"
+        stCamera:VignetteModelParam1="-0.511015"
+        stCamera:VignetteModelParam2="0.102896"
+        stCamera:VignetteModelParam3="-0.001732"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000008"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.032647"
+        stCamera:RadialDistortParam2="0.003707"
+        stCamera:RadialDistortParam3="0.001233">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999772"
+        stCamera:RadialDistortParam1="0.000843"
+        stCamera:RadialDistortParam2="-0.000835"
+        stCamera:RadialDistortParam3="0.000231"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000008"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.032647"
+        stCamera:RadialDistortParam2="0.003707"
+        stCamera:RadialDistortParam3="0.001233"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.001063"
+        stCamera:RadialDistortParam1="-0.0009"
+        stCamera:RadialDistortParam2="0.001157"
+        stCamera:RadialDistortParam3="-0.000282"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000296"
+        stCamera:VignetteModelParam1="-0.507331"
+        stCamera:VignetteModelParam2="0.063711"
+        stCamera:VignetteModelParam3="0.024678"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="0.000288"
+        stCamera:RadialDistortParam2="0.007803"
+        stCamera:RadialDistortParam3="-0.001253">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000039"
+        stCamera:RadialDistortParam1="0.000812"
+        stCamera:RadialDistortParam2="-0.000851"
+        stCamera:RadialDistortParam3="0.000301"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="0.000288"
+        stCamera:RadialDistortParam2="0.007803"
+        stCamera:RadialDistortParam3="-0.001253"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000646"
+        stCamera:RadialDistortParam1="-0.000828"
+        stCamera:RadialDistortParam2="0.001179"
+        stCamera:RadialDistortParam3="-0.000407"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000302"
+        stCamera:VignetteModelParam1="-0.579138"
+        stCamera:VignetteModelParam2="0.159691"
+        stCamera:VignetteModelParam3="-0.016919"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003616"
+        stCamera:RadialDistortParam2="0.007116"
+        stCamera:RadialDistortParam3="-0.000573">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000003"
+        stCamera:RadialDistortParam1="0.0008"
+        stCamera:RadialDistortParam2="-0.000862"
+        stCamera:RadialDistortParam3="0.000319"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003616"
+        stCamera:RadialDistortParam2="0.007116"
+        stCamera:RadialDistortParam3="-0.000573"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000695"
+        stCamera:RadialDistortParam1="-0.000797"
+        stCamera:RadialDistortParam2="0.001119"
+        stCamera:RadialDistortParam3="-0.000349"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000329"
+        stCamera:VignetteModelParam1="-0.576531"
+        stCamera:VignetteModelParam2="0.144396"
+        stCamera:VignetteModelParam3="-0.004055"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000009"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.026074"
+        stCamera:RadialDistortParam2="0.003557"
+        stCamera:RadialDistortParam3="0.003194">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999788"
+        stCamera:RadialDistortParam1="0.000698"
+        stCamera:RadialDistortParam2="-0.000685"
+        stCamera:RadialDistortParam3="0.000199"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000009"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.026074"
+        stCamera:RadialDistortParam2="0.003557"
+        stCamera:RadialDistortParam3="0.003194"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000985"
+        stCamera:RadialDistortParam1="-0.000703"
+        stCamera:RadialDistortParam2="0.001008"
+        stCamera:RadialDistortParam3="-0.00032"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000255"
+        stCamera:VignetteModelParam1="-0.574813"
+        stCamera:VignetteModelParam2="0.114566"
+        stCamera:VignetteModelParam3="0.010558"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.010476"
+        stCamera:RadialDistortParam2="0.013468"
+        stCamera:RadialDistortParam3="-0.001316">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00004"
+        stCamera:RadialDistortParam1="0.000591"
+        stCamera:RadialDistortParam2="-0.000629"
+        stCamera:RadialDistortParam3="0.00029"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.010476"
+        stCamera:RadialDistortParam2="0.013468"
+        stCamera:RadialDistortParam3="-0.001316"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000538"
+        stCamera:RadialDistortParam1="-0.000522"
+        stCamera:RadialDistortParam2="0.000897"
+        stCamera:RadialDistortParam3="-0.000435"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000239"
+        stCamera:VignetteModelParam1="-0.731497"
+        stCamera:VignetteModelParam2="0.231058"
+        stCamera:VignetteModelParam3="0.054739"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="17-35mm"
+       stCamera:LensInfo="17/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Tokina AT-X 17-35 F4 PRO FX"
+       stCamera:ProfileName="Adobe (Tokina AT-X 17-35 F4 PRO FX, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.47"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+     
